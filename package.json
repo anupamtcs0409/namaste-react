@@ -1,0 +1,28 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "this is react learning project.",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anupamtcs0409/namaste-react"
+  },
+  "author": "anupam",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+  
+}
